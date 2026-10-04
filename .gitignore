@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Dataset & Archive
+skin_disease_classification/
+*.zip
+
+# Trained weights (large files)
+results/saved_models/*.pth
+
+# OS
+.DS_Store
+Thumbs.db
