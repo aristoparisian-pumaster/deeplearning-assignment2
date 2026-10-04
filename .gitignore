@@ -9,7 +9,7 @@ skin_disease_classification/
 *.zip
 
 # Trained weights (large files)
-results/saved_models/*.pth
+results/
 
 # OS
 .DS_Store
