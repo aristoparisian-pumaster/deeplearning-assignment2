@@ -1,7 +1,7 @@
 # Skin Disease Classification Using Deep Learning
 
-**Course**: Fundamental of Deep Learning (Week 4 Assignment 1)  
-**Program**: Master of Computer Science / IT (S2), President University  
+**Course**: Fundamental of Deep Learning (Week 4 Assignment 2)  
+**Program**: Master of Information Technology (S2), President University  
 **Author**: Aristo  
 
 ---
