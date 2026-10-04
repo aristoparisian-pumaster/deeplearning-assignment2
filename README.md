@@ -48,16 +48,12 @@ The dataset used is the [Skin Disease Classification Dataset](https://www.kaggle
 ```text
 Assignment/
 ├── Assignment_Deep_Learning_Aristo.ipynb  # Interactive Jupyter Notebook
-├── Assignment_1_Deep_Learning_Aristo.pdf  # Final PDF Report (7 pages)
 ├── run_eda.py                             # Exploratory Data Analysis script
-├── generate_flowchart.py                  # Research methodology flowchart script
 ├── train_models.py                        # Model training and testing pipeline
-├── generate_pdf_report.py                 # ReportLab publication PDF compiler
 ├── requirements.txt                       # Python dependencies
 ├── README.md                              # Documentation
 └── results/
     ├── figures/
-    │   ├── research_flowchart.png
     │   ├── eda_class_distribution.png
     │   ├── eda_sample_images.png
     │   ├── combined_validation_curves.png
@@ -85,17 +81,7 @@ pip install -r requirements.txt
 python run_eda.py
 ```
 
-3. **Generate Flowchart**:
-```bash
-python generate_flowchart.py
-```
-
-4. **Train and Evaluate All 3 Models**:
+3. **Train and Evaluate All 3 Models**:
 ```bash
 python train_models.py
-```
-
-5. **Generate Final PDF Report**:
-```bash
-python generate_pdf_report.py
 ```
