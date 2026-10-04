@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This repository contains the end-to-end implementation and comparative benchmark of three distinct Convolutional Neural Network (CNN) architectures for 9-class skin disease classification using transfer learning:
 - **VGG16**: Classic deep sequential CNN
 - **ResNet50**: Deep residual network with skip connections
@@ -16,7 +16,7 @@ The dataset used is the [Skin Disease Classification Dataset](https://www.kaggle
 
 ---
 
-## 📊 Dataset Classes
+## Dataset Classes
 1. Actinic keratosis (Precancerous)
 2. Atopic Dermatitis (Inflammatory)
 3. Benign keratosis (Benign Tumor)
@@ -34,7 +34,7 @@ The dataset used is the [Skin Disease Classification Dataset](https://www.kaggle
 
 ---
 
-## 📈 Benchmark Comparison Table
+## Benchmark Comparison Table
 
 | Model | Test Accuracy | Precision (Macro) | Recall (Macro) | F1-Score (Macro) | Total Parameters | Trainable Parameters | Training Time |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -44,7 +44,7 @@ The dataset used is the [Skin Disease Classification Dataset](https://www.kaggle
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 Assignment/
 ├── Assignment_Deep_Learning_Aristo.ipynb  # Interactive Jupyter Notebook
@@ -69,7 +69,7 @@ Assignment/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Install Dependencies**:
 ```bash
